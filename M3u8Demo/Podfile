@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+  
+use_frameworks!
+
+target 'M3u8Demo' do
+pod 'SnapKit'
+pod "Alamofire", "~> 4.0.1"
+end
